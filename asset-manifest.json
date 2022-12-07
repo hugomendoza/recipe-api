@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recipe-api/static/css/main.bb146175.css",
+    "main.js": "/recipe-api/static/js/main.9a5a6adf.js",
+    "static/js/787.92ba2e84.chunk.js": "/recipe-api/static/js/787.92ba2e84.chunk.js",
+    "static/media/background-banner.jpg": "/recipe-api/static/media/background-banner.5506276b0164fd7e3b90.jpg",
+    "static/media/img-footer.png": "/recipe-api/static/media/img-footer.9063a8362ad78ea4e938.png",
+    "static/media/MonsterClubhouse.eot": "/recipe-api/static/media/MonsterClubhouse.9b0c97a2a34365ef8580.eot",
+    "static/media/MonsterClubhouse.woff": "/recipe-api/static/media/MonsterClubhouse.787b99778e175350297b.woff",
+    "static/media/MonsterClubhouse.woff2": "/recipe-api/static/media/MonsterClubhouse.9432cb9a2620a9c0e627.woff2",
+    "static/media/preparation.svg": "/recipe-api/static/media/preparation.0be11fec7308bf0652a0cee02a4afcc3.svg",
+    "static/media/portion.svg": "/recipe-api/static/media/portion.f59a09a7560199a8e4b6c77051d59e6c.svg",
+    "static/media/dificulty.svg": "/recipe-api/static/media/dificulty.db1eac475342e97fc1b2c90089d3533c.svg",
+    "index.html": "/recipe-api/index.html",
+    "static/media/star.svg": "/recipe-api/static/media/star.e3be67d66311b2df1421ba988f647a4a.svg",
+    "static/media/heart.svg": "/recipe-api/static/media/heart.8b64b3668e376ad04651c50896d3d02f.svg",
+    "main.bb146175.css.map": "/recipe-api/static/css/main.bb146175.css.map",
+    "main.9a5a6adf.js.map": "/recipe-api/static/js/main.9a5a6adf.js.map",
+    "787.92ba2e84.chunk.js.map": "/recipe-api/static/js/787.92ba2e84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb146175.css",
+    "static/js/main.9a5a6adf.js"
+  ]
+}
