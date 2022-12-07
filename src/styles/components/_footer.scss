@@ -1,0 +1,43 @@
+.footer {
+  position: relative;
+  margin-bottom: 2rem;
+  
+  .container {
+    width: min(90%, 1000px);
+  }
+
+  &__back {
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent linear-gradient(180deg, #C2E3F3 0%, #6AA3C1 100%) 0% 0% no-repeat padding-box;
+  }
+
+  &__text {
+    color: var(--color-secondary);
+    font-size: toRem(50);
+    width: 50%;
+  }
+
+  &__figure {
+    width: 50%;
+  }
+
+  @media screen and (max-width: 768px) {
+
+    padding: 2rem 0;
+    margin-bottom: 0;
+    text-align: center;
+
+    &__back {
+      height: 100%;
+    }
+    
+    &__text,
+    &__figure {
+      width: 100%;
+    }
+  }
+}

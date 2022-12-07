@@ -1,0 +1,17 @@
+.recipes {
+
+  margin-bottom: 10rem;
+
+  &__header {
+
+    margin: 2rem 0;
+
+    h2 {
+      color: var(--color-primary);
+      font-size: toRem(60);
+      font-weight: 400;
+      line-height: 1.1;
+    }
+  }
+
+}
